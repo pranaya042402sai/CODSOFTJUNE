@@ -53,7 +53,7 @@ def main():
 
     root = tk.Tk()
     root.title("To-Do List Application")
-    root.geometry("400x500")
+    root.geometry("600x700")
 
     root.configure(bg="#f0f0f0")
     root.option_add("*Font", "Arial 12")
